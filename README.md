@@ -68,15 +68,21 @@ The project demonstrates remote robot navigation and robotic arm positioning thr
 
 ## Project Documentation
 
-Add the actual available files to the repository, such as:
+## Project Documentation
 
-- `hardware/robot-prototype.jpg`
-- `hardware/circuit-diagram.png`
-- `docs/block-diagram.png`
-- `docs/flowchart.png`
-- `results/pick-and-place.jpg`
+### Hardware Design
+- [Circuit Diagram](circuit%20diagram.png)
+- [Robot Prototype](robot%20prototype.png)
 
-Replace these example filenames with your actual uploaded files.
+### System Design
+- [System Block Diagram](block%20diagram.png)
+- [Control Flowchart](multiaxis%20flowchart.png)
+
+### Control Interface
+- [Blynk Mobile App Interface](blynk%20interface.png)
+
+### Project Demonstration
+- [Pick-and-Place Setup](pick%20%26%20place.png)
 
 ## Author
 
